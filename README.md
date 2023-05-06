@@ -8,9 +8,9 @@ la dirección y donde terminan, en este archivo también se coloca la sopa de le
 
 ###Ejemplo
 
-palabra NOCHEOSFERA,horizontal [13,4hasta :14]
-palabra DIRECTOR,vertical [2,18 hasta: 9]
-palabra SOFTWARE,horizontal [12,3hasta :10]
+#palabra NOCHEOSFERA,horizontal [13,4hasta :14]
+#palabra DIRECTOR,vertical [2,18 hasta: 9]
+#palabra SOFTWARE,horizontal [12,3hasta :10]
 palabra FACEBOOK,horizontal [11,5hasta :12]
 palabra INCENDIO,horizontal [18,1hasta :8]
 palabra MOJARRA,vertical [2,19 hasta: 8]
