@@ -1,0 +1,37 @@
+palabra PINTURA,horizontal [12,11hasta :17]
+palabra ANUEL,horizontal [15,1hasta :5]
+palabra PASAS,horizontal [4,3hasta :7]
+palabra PINON,vertical [22,25 hasta: 26]
+palabra SONAR,horizontal [26,9hasta :13]
+palabra SAPO,horizontal [20,6hasta :9]
+palabra MOJO,horizontal [25,11hasta :14]
+palabra RATA,horizontal [20,20hasta :23]
+palabra RON,horizontal [19,12hasta :14]
+
+X B B Z Q Y S C G P V W Q A V Q P T P Y W U I H X F E
+O D C K I B Y L V K A M J F I I U N V T X C O O W L K
+E T B L W R H V R O D L N N I N V R R P S E I D T B O
+L X Z M Z G R G J Y B G U M J R P R R V V X B G W D G
+Y A N P A S A S X M E G Q F I S P O X I T Q D E Y L Q
+F S E D Y C L O L V F F P B X V L H N B H B J Y V O W
+N T L B X F B O E U K A V W T U C Y T F C E H J I A Q
+J R G I N D B O F O X T K U R P W A K O L G L A U V H
+B M F B N I G F O O D J I Z H L H B H J H N B X B B W
+G L O X B W S C C U E W L T A B F R D Q E P Q C R J P
+K Q H W R D Z F M G Z S O K B C I S F V F P J Z B J F
+S X J I Q G A W L Q J N F D X Q X R T Q O R C X R H K
+U T J T E B W P F T T P I N T U R A R F C N W A C Z D
+V M W H R Z S D Q D G X H Z C U H J P S E A Q J Z S R
+T J R Z C N G M F Z V I T G C C A N V Z Y P P Q I X Q
+R A N U E L U F Y E Q R T O O C C I W O L Q S E V N N
+V E Z I N F J X Y F T O W N A F E S O I I D I O U F E
+C D G J H J S V I F R A S H C F R C E G O U J Q H B C
+H H I S X T Z O L O R U I B E H O K P B H A Y S C Z J
+A B X A I N K E N A V H R O N Q D R T M Q I C Y N P T
+M A F O K L S A P O H F F G F G Y T X K R A T A Q S H
+O P K S M J Y R S M F B U T J H R A O L V N S A S Z M
+N D J W H K Z R V D P H T R B Z L W G X H Q M X A P L
+K Z I G E A K J O G C E L R T V D I A F M F G Z J I D
+J N V A I P H W N B G Y Y S R N G H R F F K Y O T N U
+I U G L U C I V R C Q M O J O Q Q U K U T J G T I O U
+A T U D H O C T U S O N A R W Q I B V D F Z H G D N W
